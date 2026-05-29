@@ -1,0 +1,6 @@
+borough,n_tracts,mean_coverage_pct,pop_weighted_coverage_pct,tracts_above_50pct,tracts_below_10pct
+Manhattan,288,74.2,71.4,231,18
+Brooklyn,761,51.8,48.2,389,142
+Queens,669,34.1,31.7,198,287
+Bronx,340,24.7,22.1,84,194
+Staten Island,111,9.6,8.3,9,94

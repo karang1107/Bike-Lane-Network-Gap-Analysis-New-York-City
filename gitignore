@@ -1,0 +1,11 @@
+data/raw/
+data/processed/*.gpkg
+data/processed/*.tif
+outputs/maps/
+qgis-project/*.qgz~
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+Thumbs.db
